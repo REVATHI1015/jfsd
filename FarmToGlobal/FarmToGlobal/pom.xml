@@ -11,7 +11,7 @@
 	<groupId>com.klef.jfsd.farmtoglobal</groupId>
 	<artifactId>FarmToGlobal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>FarmToGlobal</name>
 	<description>JFSD SDP Project</description>
 	<url/>
@@ -84,7 +84,6 @@
     <version>3.0.0</version><!--$NO-MVN-MAN-VER$-->
 </dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
